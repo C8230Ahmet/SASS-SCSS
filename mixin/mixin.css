@@ -1,0 +1,40 @@
+div {
+  float: left;
+}
+
+#first {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 15px;
+}
+
+#second {
+  width: 100px;
+  height: 200px;
+  background-color: green;
+  margin: 15px;
+}
+
+#third {
+  width: 100px;
+  height: 300px;
+  background-color: blue;
+  margin: 15px;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+  color: lawngreen;
+  border-radius: 20px;
+}
+
+.box, #a1, #b2, #c3 {
+  width: 100px;
+  height: 100px;
+  margin: 15px;
+  color: lawngreen;
+}
+/*# sourceMappingURL=mixin.css.map */
